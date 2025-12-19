@@ -19,6 +19,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Stakeholder Liaison: bridges project teams and external stakeholders, collects requirements and feedback.
+- Quality Assurance Lead: establishes quality standards, reviews deliverables, coordinates testing.
+- Onboarding Coordinator: manages knowledge transfer for new team members, maintains onboarding materials.
+- Change Champion: drives process improvement adoption, facilitates retrospectives, advocates for cultural change.
 
 ## Key Artifacts
 - Project Charter / One-pager

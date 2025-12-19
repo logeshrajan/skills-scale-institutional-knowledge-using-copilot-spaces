@@ -45,7 +45,7 @@ Team retros, feedback loops, and documented improvements. This phase captures le
 📄 [octoacme-retrospective-and-continuous-improvement.md](octoacme-retrospective-and-continuous-improvement.md)
 
 ### 7. Roles & Personas
-Responsibility matrix and stakeholder personas. This document profiles key roles, defines RACI matrices, and clarifies expectations for project team members and stakeholders.
+Responsibility matrix and stakeholder personas. This document profiles key roles, defines RACI matrices, and clarifies expectations for project team members and stakeholders. Expanded to include cross-functional roles for improved collaboration, quality assurance, onboarding, and change management.
 
 📄 [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)
 
@@ -54,6 +54,25 @@ Responsibility matrix and stakeholder personas. This document profiles key roles
 For an at-a-glance lifecycle reference and high-level principles, see:
 
 📄 [octoacme-project-management-overview.md](octoacme-project-management-overview.md)
+
+## Supporting Templates and Checklists
+
+To facilitate effective execution of roles and processes, we provide practical templates:
+
+### Onboarding Checklist
+Comprehensive checklist for onboarding new team members, ensuring consistent knowledge transfer and rapid productivity. Maintained by the Onboarding Coordinator.
+
+📄 [octoacme-onboarding-checklist.md](octoacme-onboarding-checklist.md)
+
+### Quality Assurance Checklist
+Standards and review processes to ensure all deliverables meet acceptance criteria and organizational quality expectations. Maintained by the Quality Assurance Lead.
+
+📄 [octoacme-quality-assurance-checklist.md](octoacme-quality-assurance-checklist.md)
+
+### Feedback Collection Template
+Structured templates for collecting feedback from team members, stakeholders, and processes to drive continuous improvement. Maintained by the Change Champion.
+
+📄 [octoacme-feedback-collection-template.md](octoacme-feedback-collection-template.md)
 
 ## Living Documentation
 
