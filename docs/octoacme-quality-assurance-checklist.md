@@ -97,7 +97,9 @@ Quality gates that must pass before proceeding:
 ## Common Quality Issues and Prevention
 
 ### Issue: Insufficient Test Coverage
-**Prevention:** Require test plans before coding begins; pair developers with QA during design.
+**Prevention:** 
+- Require test plans before coding begins
+- Pair developers with QA during design
 
 ### Issue: Unclear Acceptance Criteria
 **Prevention:** QA Lead reviews user stories with Product Manager before sprint planning.

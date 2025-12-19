@@ -75,8 +75,6 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
----
-
 ## Stakeholder Liaison
 
 ### Role Summary
@@ -216,5 +214,9 @@ Change Champions drive the adoption of process improvements and cultural changes
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-- The expanded set of personas addresses cross-functional engagement, quality assurance, onboarding, and continuous improvement as identified in process improvement initiatives.
+- The expanded set of personas addresses key gaps:
+  - Cross-functional engagement and stakeholder communication
+  - Quality assurance and review processes
+  - Onboarding and knowledge transfer
+  - Continuous improvement and change adoption
 
